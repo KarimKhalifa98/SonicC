@@ -42,7 +42,7 @@ async function router() {
 
   // Load page HTML and JavaScript
   await loadComponent("content", route.html);
-
+checkUser()
   loadJS(route.js);
 }
 
@@ -62,3 +62,20 @@ loadComponent("footer", "pages/footer.html");
 router();
 // Re-run router when URL hash changes
 window.addEventListener("hashchange", router);
+
+
+const currentUser = JSON.parse(localStorage.getItem("currentUser"));
+const logoutBtn = document.getElementById("logoutBtn");
+const loginBtn = document.getElementById("loginBtn");
+const registerBtn = document.getElementById("registerBtn");
+
+
+export function checkUser() {
+  if (currentUser) {
+    loginBtn?.classList.add("hidden");
+    logoutBtn?.classList.remove("hidden");
+  } else {
+    loginBtn?.classList.remove("hidden");
+    logoutBtn?.classList.add("hidden");
+  }
+}

@@ -1,0 +1,411 @@
+[
+  {
+    "id": 1,
+    "company": "Toyota",
+    "model": "Corolla",
+    "year": 2022,
+    "price": 850000,
+    "image": "/assets/cars/toyota-corolla.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 2,
+    "company": "Toyota",
+    "model": "Camry",
+    "year": 2023,
+    "price": 1250000,
+    "image": "/assets/cars/toyota-camry.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 3,
+    "company": "Toyota",
+    "model": "Yaris",
+    "year": 2021,
+    "price": 720000,
+    "image": "/assets/cars/toyota-yaris.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 4,
+    "company": "Toyota",
+    "model": "RAV4",
+    "year": 2024,
+    "price": 1600000,
+    "image": "/assets/cars/toyota-rav4.jpg",
+    "transmission": "Automatic",
+    "fuel": "Hybrid"
+  },
+
+  {
+    "id": 5,
+    "company": "Honda",
+    "model": "Civic",
+    "year": 2022,
+    "price": 900000,
+    "image": "/assets/cars/honda-civic.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 6,
+    "company": "Honda",
+    "model": "Accord",
+    "year": 2023,
+    "price": 1350000,
+    "image": "/assets/cars/honda-accord.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 7,
+    "company": "Honda",
+    "model": "HR-V",
+    "year": 2024,
+    "price": 1400000,
+    "image": "/assets/cars/honda-hrv.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 8,
+    "company": "Honda",
+    "model": "City",
+    "year": 2021,
+    "price": 780000,
+    "image": "/assets/cars/honda-city.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+
+  {
+    "id": 9,
+    "company": "Hyundai",
+    "model": "Elantra",
+    "year": 2022,
+    "price": 780000,
+    "image": "/assets/cars/hyundai-elantra.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 10,
+    "company": "Hyundai",
+    "model": "Tucson",
+    "year": 2024,
+    "price": 1450000,
+    "image": "/assets/cars/hyundai-tucson.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 11,
+    "company": "Hyundai",
+    "model": "Accent",
+    "year": 2021,
+    "price": 650000,
+    "image": "/assets/cars/hyundai-accent.jpg",
+    "transmission": "Manual",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 12,
+    "company": "Hyundai",
+    "model": "Santa Fe",
+    "year": 2024,
+    "price": 2200000,
+    "image": "/assets/cars/hyundai-santafe.jpg",
+    "transmission": "Automatic",
+    "fuel": "Diesel"
+  },
+
+  {
+    "id": 13,
+    "company": "Kia",
+    "model": "Sportage",
+    "year": 2023,
+    "price": 1400000,
+    "image": "/assets/cars/kia-sportage.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 14,
+    "company": "Kia",
+    "model": "Cerato",
+    "year": 2022,
+    "price": 820000,
+    "image": "/assets/cars/kia-cerato.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 15,
+    "company": "Kia",
+    "model": "Sorento",
+    "year": 2024,
+    "price": 2100000,
+    "image": "/assets/cars/kia-sorento.jpg",
+    "transmission": "Automatic",
+    "fuel": "Diesel"
+  },
+  {
+    "id": 16,
+    "company": "Kia",
+    "model": "Picanto",
+    "year": 2021,
+    "price": 600000,
+    "image": "/assets/cars/kia-picanto.jpg",
+    "transmission": "Manual",
+    "fuel": "Petrol"
+  },
+
+  {
+    "id": 17,
+    "company": "Nissan",
+    "model": "Sunny",
+    "year": 2021,
+    "price": 650000,
+    "image": "/assets/cars/nissan-sunny.jpg",
+    "transmission": "Manual",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 18,
+    "company": "Nissan",
+    "model": "Qashqai",
+    "year": 2023,
+    "price": 1500000,
+    "image": "/assets/cars/nissan-qashqai.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 19,
+    "company": "Nissan",
+    "model": "X-Trail",
+    "year": 2024,
+    "price": 1800000,
+    "image": "/assets/cars/nissan-xtrail.jpg",
+    "transmission": "Automatic",
+    "fuel": "Hybrid"
+  },
+  {
+    "id": 20,
+    "company": "Nissan",
+    "model": "Sentra",
+    "year": 2022,
+    "price": 870000,
+    "image": "/assets/cars/nissan-sentra.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+
+  {
+    "id": 21,
+    "company": "BMW",
+    "model": "320i",
+    "year": 2023,
+    "price": 2500000,
+    "image": "/assets/cars/bmw-320i.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 22,
+    "company": "BMW",
+    "model": "X5",
+    "year": 2024,
+    "price": 4200000,
+    "image": "/assets/cars/bmw-x5.jpg",
+    "transmission": "Automatic",
+    "fuel": "Diesel"
+  },
+  {
+    "id": 23,
+    "company": "BMW",
+    "model": "X3",
+    "year": 2023,
+    "price": 3200000,
+    "image": "/assets/cars/bmw-x3.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 24,
+    "company": "BMW",
+    "model": "520i",
+    "year": 2024,
+    "price": 3800000,
+    "image": "/assets/cars/bmw-520i.jpg",
+    "transmission": "Automatic",
+    "fuel": "Hybrid"
+  },
+
+  {
+    "id": 25,
+    "company": "Mercedes",
+    "model": "C180",
+    "year": 2023,
+    "price": 2700000,
+    "image": "/assets/cars/mercedes-c180.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 26,
+    "company": "Mercedes",
+    "model": "E200",
+    "year": 2024,
+    "price": 3500000,
+    "image": "/assets/cars/mercedes-e200.jpg",
+    "transmission": "Automatic",
+    "fuel": "Hybrid"
+  },
+  {
+    "id": 27,
+    "company": "Mercedes",
+    "model": "GLC",
+    "year": 2024,
+    "price": 3900000,
+    "image": "/assets/cars/mercedes-glc.jpg",
+    "transmission": "Automatic",
+    "fuel": "Diesel"
+  },
+  {
+    "id": 28,
+    "company": "Mercedes",
+    "model": "A200",
+    "year": 2022,
+    "price": 2100000,
+    "image": "/assets/cars/mercedes-a200.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+
+  {
+    "id": 29,
+    "company": "Audi",
+    "model": "A4",
+    "year": 2023,
+    "price": 2600000,
+    "image": "/assets/cars/audi-a4.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 30,
+    "company": "Audi",
+    "model": "Q7",
+    "year": 2024,
+    "price": 4800000,
+    "image": "/assets/cars/audi-q7.jpg",
+    "transmission": "Automatic",
+    "fuel": "Diesel"
+  },
+  {
+    "id": 31,
+    "company": "Audi",
+    "model": "A6",
+    "year": 2023,
+    "price": 3400000,
+    "image": "/assets/cars/audi-a6.jpg",
+    "transmission": "Automatic",
+    "fuel": "Hybrid"
+  },
+  {
+    "id": 32,
+    "company": "Audi",
+    "model": "Q3",
+    "year": 2022,
+    "price": 2300000,
+    "image": "/assets/cars/audi-q3.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+
+  {
+    "id": 33,
+    "company": "Ford",
+    "model": "Focus",
+    "year": 2022,
+    "price": 870000,
+    "image": "/assets/cars/ford-focus.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 34,
+    "company": "Ford",
+    "model": "Explorer",
+    "year": 2024,
+    "price": 3100000,
+    "image": "/assets/cars/ford-explorer.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 35,
+    "company": "Ford",
+    "model": "Edge",
+    "year": 2023,
+    "price": 2800000,
+    "image": "/assets/cars/ford-edge.jpg",
+    "transmission": "Automatic",
+    "fuel": "Diesel"
+  },
+  {
+    "id": 36,
+    "company": "Ford",
+    "model": "Fiesta",
+    "year": 2021,
+    "price": 600000,
+    "image": "/assets/cars/ford-fiesta.jpg",
+    "transmission": "Manual",
+    "fuel": "Petrol"
+  },
+
+  {
+    "id": 37,
+    "company": "Chevrolet",
+    "model": "Optra",
+    "year": 2021,
+    "price": 620000,
+    "image": "/assets/cars/chevrolet-optra.jpg",
+    "transmission": "Manual",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 38,
+    "company": "Chevrolet",
+    "model": "Captiva",
+    "year": 2024,
+    "price": 1300000,
+    "image": "/assets/cars/chevrolet-captiva.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 39,
+    "company": "Chevrolet",
+    "model": "Malibu",
+    "year": 2023,
+    "price": 1900000,
+    "image": "/assets/cars/chevrolet-malibu.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  },
+  {
+    "id": 40,
+    "company": "Chevrolet",
+    "model": "Tahoe",
+    "year": 2024,
+    "price": 4500000,
+    "image": "/assets/cars/chevrolet-tahoe.jpg",
+    "transmission": "Automatic",
+    "fuel": "Petrol"
+  }
+]
