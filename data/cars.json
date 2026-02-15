@@ -7,7 +7,20 @@
     "price": 850000,
     "image": "/assets/cars/toyota-corolla.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "1.5L",
+    "cylinders": 4,
+    "horsePower": 110,
+    "torque": "140 Nm",
+    "fuelConsumption": "6.0L/100km",
+    "topSpeed": "180 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 2,
@@ -17,7 +30,20 @@
     "price": 1250000,
     "image": "/assets/cars/toyota-camry.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "2.0L",
+    "cylinders": 4,
+    "horsePower": 170,
+    "torque": "200 Nm",
+    "fuelConsumption": "7.2L/100km",
+    "topSpeed": "210 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 3,
@@ -27,7 +53,20 @@
     "price": 720000,
     "image": "/assets/cars/toyota-yaris.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "1.5L",
+    "cylinders": 4,
+    "horsePower": 110,
+    "torque": "140 Nm",
+    "fuelConsumption": "6.0L/100km",
+    "topSpeed": "180 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 4,
@@ -37,9 +76,21 @@
     "price": 1600000,
     "image": "/assets/cars/toyota-rav4.jpg",
     "transmission": "Automatic",
-    "fuel": "Hybrid"
+    "fuel": "Hybrid",
+    "engine": "2.5L",
+    "cylinders": 4,
+    "horsePower": 220,
+    "torque": "320 Nm",
+    "fuelConsumption": "8.5L/100km",
+    "topSpeed": "220 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
-
   {
     "id": 5,
     "company": "Honda",
@@ -48,7 +99,20 @@
     "price": 900000,
     "image": "/assets/cars/honda-civic.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "1.5L",
+    "cylinders": 4,
+    "horsePower": 110,
+    "torque": "140 Nm",
+    "fuelConsumption": "6.0L/100km",
+    "topSpeed": "180 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 6,
@@ -58,7 +122,20 @@
     "price": 1350000,
     "image": "/assets/cars/honda-accord.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "2.0L",
+    "cylinders": 4,
+    "horsePower": 170,
+    "torque": "200 Nm",
+    "fuelConsumption": "7.2L/100km",
+    "topSpeed": "210 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 7,
@@ -68,7 +145,20 @@
     "price": 1400000,
     "image": "/assets/cars/honda-hrv.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "1.5L",
+    "cylinders": 4,
+    "horsePower": 110,
+    "torque": "140 Nm",
+    "fuelConsumption": "6.0L/100km",
+    "topSpeed": "180 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 8,
@@ -78,9 +168,21 @@
     "price": 780000,
     "image": "/assets/cars/honda-city.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "1.5L",
+    "cylinders": 4,
+    "horsePower": 110,
+    "torque": "140 Nm",
+    "fuelConsumption": "6.0L/100km",
+    "topSpeed": "180 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
-
   {
     "id": 9,
     "company": "Hyundai",
@@ -89,7 +191,20 @@
     "price": 780000,
     "image": "/assets/cars/hyundai-elantra.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "1.5L",
+    "cylinders": 4,
+    "horsePower": 110,
+    "torque": "140 Nm",
+    "fuelConsumption": "6.0L/100km",
+    "topSpeed": "180 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 10,
@@ -99,7 +214,20 @@
     "price": 1450000,
     "image": "/assets/cars/hyundai-tucson.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "2.5L",
+    "cylinders": 4,
+    "horsePower": 220,
+    "torque": "320 Nm",
+    "fuelConsumption": "8.5L/100km",
+    "topSpeed": "220 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 11,
@@ -109,7 +237,20 @@
     "price": 650000,
     "image": "/assets/cars/hyundai-accent.jpg",
     "transmission": "Manual",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "1.5L",
+    "cylinders": 4,
+    "horsePower": 110,
+    "torque": "140 Nm",
+    "fuelConsumption": "6.0L/100km",
+    "topSpeed": "180 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 12,
@@ -119,9 +260,21 @@
     "price": 2200000,
     "image": "/assets/cars/hyundai-santafe.jpg",
     "transmission": "Automatic",
-    "fuel": "Diesel"
+    "fuel": "Diesel",
+    "engine": "2.5L",
+    "cylinders": 4,
+    "horsePower": 220,
+    "torque": "320 Nm",
+    "fuelConsumption": "8.5L/100km",
+    "topSpeed": "220 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
-
   {
     "id": 13,
     "company": "Kia",
@@ -130,7 +283,20 @@
     "price": 1400000,
     "image": "/assets/cars/kia-sportage.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "2.5L",
+    "cylinders": 4,
+    "horsePower": 220,
+    "torque": "320 Nm",
+    "fuelConsumption": "8.5L/100km",
+    "topSpeed": "220 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 14,
@@ -140,7 +306,20 @@
     "price": 820000,
     "image": "/assets/cars/kia-cerato.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "1.5L",
+    "cylinders": 4,
+    "horsePower": 110,
+    "torque": "140 Nm",
+    "fuelConsumption": "6.0L/100km",
+    "topSpeed": "180 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 15,
@@ -150,7 +329,20 @@
     "price": 2100000,
     "image": "/assets/cars/kia-sorento.jpg",
     "transmission": "Automatic",
-    "fuel": "Diesel"
+    "fuel": "Diesel",
+    "engine": "2.5L",
+    "cylinders": 4,
+    "horsePower": 220,
+    "torque": "320 Nm",
+    "fuelConsumption": "8.5L/100km",
+    "topSpeed": "220 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 16,
@@ -160,9 +352,21 @@
     "price": 600000,
     "image": "/assets/cars/kia-picanto.jpg",
     "transmission": "Manual",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "1.5L",
+    "cylinders": 4,
+    "horsePower": 110,
+    "torque": "140 Nm",
+    "fuelConsumption": "6.0L/100km",
+    "topSpeed": "180 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
-
   {
     "id": 17,
     "company": "Nissan",
@@ -171,7 +375,20 @@
     "price": 650000,
     "image": "/assets/cars/nissan-sunny.jpg",
     "transmission": "Manual",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "1.5L",
+    "cylinders": 4,
+    "horsePower": 110,
+    "torque": "140 Nm",
+    "fuelConsumption": "6.0L/100km",
+    "topSpeed": "180 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 18,
@@ -181,7 +398,20 @@
     "price": 1500000,
     "image": "/assets/cars/nissan-qashqai.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "2.5L",
+    "cylinders": 4,
+    "horsePower": 220,
+    "torque": "320 Nm",
+    "fuelConsumption": "8.5L/100km",
+    "topSpeed": "220 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 19,
@@ -191,7 +421,20 @@
     "price": 1800000,
     "image": "/assets/cars/nissan-xtrail.jpg",
     "transmission": "Automatic",
-    "fuel": "Hybrid"
+    "fuel": "Hybrid",
+    "engine": "2.5L",
+    "cylinders": 4,
+    "horsePower": 220,
+    "torque": "320 Nm",
+    "fuelConsumption": "8.5L/100km",
+    "topSpeed": "220 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 20,
@@ -201,9 +444,21 @@
     "price": 870000,
     "image": "/assets/cars/nissan-sentra.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "1.5L",
+    "cylinders": 4,
+    "horsePower": 110,
+    "torque": "140 Nm",
+    "fuelConsumption": "6.0L/100km",
+    "topSpeed": "180 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
-
   {
     "id": 21,
     "company": "BMW",
@@ -212,7 +467,20 @@
     "price": 2500000,
     "image": "/assets/cars/bmw-320i.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "3.0L",
+    "cylinders": 6,
+    "horsePower": 340,
+    "torque": "500 Nm",
+    "fuelConsumption": "9.5L/100km",
+    "topSpeed": "250 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 22,
@@ -222,7 +490,20 @@
     "price": 4200000,
     "image": "/assets/cars/bmw-x5.jpg",
     "transmission": "Automatic",
-    "fuel": "Diesel"
+    "fuel": "Diesel",
+    "engine": "3.0L",
+    "cylinders": 6,
+    "horsePower": 340,
+    "torque": "500 Nm",
+    "fuelConsumption": "9.5L/100km",
+    "topSpeed": "250 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 23,
@@ -232,7 +513,20 @@
     "price": 3200000,
     "image": "/assets/cars/bmw-x3.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "3.0L",
+    "cylinders": 6,
+    "horsePower": 340,
+    "torque": "500 Nm",
+    "fuelConsumption": "9.5L/100km",
+    "topSpeed": "250 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 24,
@@ -242,9 +536,21 @@
     "price": 3800000,
     "image": "/assets/cars/bmw-520i.jpg",
     "transmission": "Automatic",
-    "fuel": "Hybrid"
+    "fuel": "Hybrid",
+    "engine": "3.0L",
+    "cylinders": 6,
+    "horsePower": 340,
+    "torque": "500 Nm",
+    "fuelConsumption": "9.5L/100km",
+    "topSpeed": "250 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
-
   {
     "id": 25,
     "company": "Mercedes",
@@ -253,7 +559,20 @@
     "price": 2700000,
     "image": "/assets/cars/mercedes-c180.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "3.0L",
+    "cylinders": 6,
+    "horsePower": 340,
+    "torque": "500 Nm",
+    "fuelConsumption": "9.5L/100km",
+    "topSpeed": "250 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 26,
@@ -263,7 +582,20 @@
     "price": 3500000,
     "image": "/assets/cars/mercedes-e200.jpg",
     "transmission": "Automatic",
-    "fuel": "Hybrid"
+    "fuel": "Hybrid",
+    "engine": "3.0L",
+    "cylinders": 6,
+    "horsePower": 340,
+    "torque": "500 Nm",
+    "fuelConsumption": "9.5L/100km",
+    "topSpeed": "250 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 27,
@@ -273,7 +605,20 @@
     "price": 3900000,
     "image": "/assets/cars/mercedes-glc.jpg",
     "transmission": "Automatic",
-    "fuel": "Diesel"
+    "fuel": "Diesel",
+    "engine": "3.0L",
+    "cylinders": 6,
+    "horsePower": 340,
+    "torque": "500 Nm",
+    "fuelConsumption": "9.5L/100km",
+    "topSpeed": "250 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 28,
@@ -283,9 +628,21 @@
     "price": 2100000,
     "image": "/assets/cars/mercedes-a200.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "3.0L",
+    "cylinders": 6,
+    "horsePower": 340,
+    "torque": "500 Nm",
+    "fuelConsumption": "9.5L/100km",
+    "topSpeed": "250 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
-
   {
     "id": 29,
     "company": "Audi",
@@ -294,7 +651,20 @@
     "price": 2600000,
     "image": "/assets/cars/audi-a4.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "3.0L",
+    "cylinders": 6,
+    "horsePower": 340,
+    "torque": "500 Nm",
+    "fuelConsumption": "9.5L/100km",
+    "topSpeed": "250 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 30,
@@ -304,7 +674,20 @@
     "price": 4800000,
     "image": "/assets/cars/audi-q7.jpg",
     "transmission": "Automatic",
-    "fuel": "Diesel"
+    "fuel": "Diesel",
+    "engine": "3.0L",
+    "cylinders": 6,
+    "horsePower": 340,
+    "torque": "500 Nm",
+    "fuelConsumption": "9.5L/100km",
+    "topSpeed": "250 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 31,
@@ -314,7 +697,20 @@
     "price": 3400000,
     "image": "/assets/cars/audi-a6.jpg",
     "transmission": "Automatic",
-    "fuel": "Hybrid"
+    "fuel": "Hybrid",
+    "engine": "3.0L",
+    "cylinders": 6,
+    "horsePower": 340,
+    "torque": "500 Nm",
+    "fuelConsumption": "9.5L/100km",
+    "topSpeed": "250 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 32,
@@ -324,9 +720,21 @@
     "price": 2300000,
     "image": "/assets/cars/audi-q3.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "3.0L",
+    "cylinders": 6,
+    "horsePower": 340,
+    "torque": "500 Nm",
+    "fuelConsumption": "9.5L/100km",
+    "topSpeed": "250 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
-
   {
     "id": 33,
     "company": "Ford",
@@ -335,7 +743,20 @@
     "price": 870000,
     "image": "/assets/cars/ford-focus.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "1.5L",
+    "cylinders": 4,
+    "horsePower": 110,
+    "torque": "140 Nm",
+    "fuelConsumption": "6.0L/100km",
+    "topSpeed": "180 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 34,
@@ -345,7 +766,20 @@
     "price": 3100000,
     "image": "/assets/cars/ford-explorer.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "2.5L",
+    "cylinders": 4,
+    "horsePower": 220,
+    "torque": "320 Nm",
+    "fuelConsumption": "8.5L/100km",
+    "topSpeed": "220 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 35,
@@ -355,7 +789,20 @@
     "price": 2800000,
     "image": "/assets/cars/ford-edge.jpg",
     "transmission": "Automatic",
-    "fuel": "Diesel"
+    "fuel": "Diesel",
+    "engine": "2.5L",
+    "cylinders": 4,
+    "horsePower": 220,
+    "torque": "320 Nm",
+    "fuelConsumption": "8.5L/100km",
+    "topSpeed": "220 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 36,
@@ -365,9 +812,21 @@
     "price": 600000,
     "image": "/assets/cars/ford-fiesta.jpg",
     "transmission": "Manual",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "1.5L",
+    "cylinders": 4,
+    "horsePower": 110,
+    "torque": "140 Nm",
+    "fuelConsumption": "6.0L/100km",
+    "topSpeed": "180 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
-
   {
     "id": 37,
     "company": "Chevrolet",
@@ -376,7 +835,20 @@
     "price": 620000,
     "image": "/assets/cars/chevrolet-optra.jpg",
     "transmission": "Manual",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "1.5L",
+    "cylinders": 4,
+    "horsePower": 110,
+    "torque": "140 Nm",
+    "fuelConsumption": "6.0L/100km",
+    "topSpeed": "180 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 38,
@@ -386,7 +858,20 @@
     "price": 1300000,
     "image": "/assets/cars/chevrolet-captiva.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "2.5L",
+    "cylinders": 4,
+    "horsePower": 220,
+    "torque": "320 Nm",
+    "fuelConsumption": "8.5L/100km",
+    "topSpeed": "220 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 39,
@@ -396,7 +881,20 @@
     "price": 1900000,
     "image": "/assets/cars/chevrolet-malibu.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "2.0L",
+    "cylinders": 4,
+    "horsePower": 170,
+    "torque": "200 Nm",
+    "fuelConsumption": "7.2L/100km",
+    "topSpeed": "210 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   },
   {
     "id": 40,
@@ -406,6 +904,19 @@
     "price": 4500000,
     "image": "/assets/cars/chevrolet-tahoe.jpg",
     "transmission": "Automatic",
-    "fuel": "Petrol"
+    "fuel": "Petrol",
+    "engine": "2.5L",
+    "cylinders": 4,
+    "horsePower": 220,
+    "torque": "320 Nm",
+    "fuelConsumption": "8.5L/100km",
+    "topSpeed": "220 km/h",
+    "features": [
+      "ABS",
+      "Airbags",
+      "Touch Screen",
+      "Rear Camera",
+      "Cruise Control"
+    ]
   }
 ]
