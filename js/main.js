@@ -42,7 +42,7 @@ async function router() {
 
   // Load page HTML and JavaScript
   await loadComponent("content", route.html);
-checkUser()
+  checkUser();
   loadJS(route.js);
 }
 
@@ -50,7 +50,7 @@ checkUser()
 
 loadComponent("header", "pages/header.html").then(() => {
   const script = document.createElement("script");
-  script.src = "js/header.js"
+  script.src = "js/header.js";
   script.type = "module";
   document.body.appendChild(script);
 });
@@ -63,12 +63,10 @@ router();
 // Re-run router when URL hash changes
 window.addEventListener("hashchange", router);
 
-
 const currentUser = JSON.parse(localStorage.getItem("currentUser"));
 const logoutBtn = document.getElementById("logoutBtn");
 const loginBtn = document.getElementById("loginBtn");
 const registerBtn = document.getElementById("registerBtn");
-
 
 export function checkUser() {
   if (currentUser) {
@@ -79,3 +77,4 @@ export function checkUser() {
     logoutBtn?.classList.add("hidden");
   }
 }
+
