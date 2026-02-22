@@ -2,7 +2,7 @@ import { routes } from "./routes.js";
 
 //Loads an HTML component into a specific element by ID
 async function loadComponent(id, file) {
-  const res = await fetch(file);
+  const res = await fetch(`${file}?t=${Date.now()}`);
   const html = await res.text();
   document.getElementById(id).innerHTML = html;
 }
@@ -15,7 +15,7 @@ function loadJS(src) {
   if (!src) return;
 
   currentScript = document.createElement("script");
-  currentScript.src = src;
+  currentScript.src = `${src}?t=${Date.now()}`;
   currentScript.type = "module";
   document.body.appendChild(currentScript);
 }
